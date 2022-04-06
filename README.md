@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Hanif
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning business analytics, machine learning, and backend engineering
+Basic Project
